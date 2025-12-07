@@ -54,8 +54,12 @@
       <button onclick="gen('leaflet')">전단지 생성</button>
     </div>
     <div class="row">
-      <button onclick="gen('pamphlet')">리플릿 생성</button>
+      <button onclick="gen('pamphlet')">팸플릿 생성</button>
       <button onclick="gen('detailPage')">상세페이지 생성</button>
+    </div>
+    <div class="row">
+      <button onclick="gen('pressRelease')">보도자료 생성</button>
+      <button onclick="gen('blog')">블로그 작성</button>
     </div>
     <div class="row">
       <button onclick="gen('video')">동영상 스토리보드 생성</button>
